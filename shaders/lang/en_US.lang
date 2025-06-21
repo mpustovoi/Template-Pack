@@ -1,0 +1,11 @@
+#shaders/lang/en_us.lang
+
+option.FrameAccumulation=Frame Accumulation
+option.GiStrength=Global Illumination Strength
+option.Redirections=Redirections
+option.RaySamples=Ray Samples
+option.LightSamples=Light Samples
+option.VoxDist=Voxelization Distance
+option.TraceDist=Tracing Distance
+option.Saturation=Saturation
+option.Brightness=Brightness

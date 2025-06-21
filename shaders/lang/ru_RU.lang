@@ -1,0 +1,11 @@
+#shaders/lang/ru_ru.lang
+
+option.FrameAccumulation=Кадровое накопление
+option.GiStrength=Сила глобального освещения
+option.Redirections=Перенаправления
+option.RaySamples=Выборки лучей
+option.LightSamples=Выборки света
+option.VoxDist=Расстояние вокселизации
+option.TraceDist=Расстояние трассировки
+option.Saturation=Насыщенность
+option.Brightness=Яркость
